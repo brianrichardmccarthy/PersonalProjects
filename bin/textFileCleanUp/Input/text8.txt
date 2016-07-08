@@ -1,0 +1,55 @@
+bittorrent
+mongodb, nodejs, expressjs, angularjs
+ruby on rails
+adobe photoshop, illustrator, captive
+adobe photoshop, illustrator, captive
+autodesk enterainment suite
+python 2.7, 3.2, 3.4
+jMonkeyEngine
+Blender
+firefox
+android studio
+unreal engine
+unity
+eclipse mars 2
+visual studio 2013/2015
+xamp 3.2.2 with php 7
+visual paradim
+git bash
+github
+dropbox
+google drive
+onedrive
+samsung drive
+steam
+obs
+ccleaner
+bittorrent
+audacity
+cocos
+cocos studio
+qt creator
+game maker
+google app engine
+contrust 2
+google docs, sheets, slides
+filezilla
+wireshark
+cisco packet tracker
+mendeley
+sublime
+codelite
+mongodb, nodejs, expressjs, angularjs
+ruby on rails
+cygwin
+prolog
+lisp
+java
+lua
+love
+mingw
+xamarin studio
+monogame
+intelliJ suite
+virual box
+vmplayler
