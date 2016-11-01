@@ -1,4 +1,6 @@
-Click Project -> Properties;
-Select run/debug settings, and then the current configuration on the right pane, click edit;
-In the c/c++ application textbox, select search project, and then click the binary you want to execute for the current project.
-On my system, the previous problem is due to incorrect default file name --- the linker generates abinary.exe but in run configuration it is "abinary".
+one
+one
+two
+three
+two
+one
